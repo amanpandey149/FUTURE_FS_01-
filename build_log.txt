@@ -1,0 +1,12 @@
+﻿
+> portfolio@0.0.0 build
+> vite build
+
+[36mvite v7.3.1 [32mbuilding client environment for production...[36m[39m
+transforming...
+[32mΓ£ô[39m 27 modules transformed.
+rendering chunks...
+computing gzip size...
+[2mdist/[22m[32mindex.html                [39m[1m[2m  0.57 kB[22m[1m[22m[2m Γöé gzip:  0.36 kB[22m
+[2mdist/[22m[36massets/index-B3FepIsM.js  [39m[1m[2m193.39 kB[22m[1m[22m[2m Γöé gzip: 60.76 kB[22m
+[32mΓ£ô built in 898ms[39m
