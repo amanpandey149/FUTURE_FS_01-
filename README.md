@@ -16,6 +16,9 @@ This is my personal portfolio website where I showcase my projects, skills, and 
 ## 🔗 Live Demo
 https://aman-portfolio-v1.netlify.app
 
+## 📸 Screenshots
+<img width="1900" height="902" alt="image" src="https://github.com/user-attachments/assets/d59280c6-cb76-4171-8dd6-df3998ad0bd7" />
+
 
 ## 📂 Setup Instructions
 
